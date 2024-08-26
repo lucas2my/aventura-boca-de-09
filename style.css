@@ -5,5 +5,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    height: 700px;
+    margin: 0;
+}
+button{
+    background: rgb(235, 48, 48);
+    color:beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
